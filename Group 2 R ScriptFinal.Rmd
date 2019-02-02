@@ -1,6 +1,5 @@
 ---
-title: Group 2 Project 
-Team Members: Akanksha Jain, Serge Smirnov, Lucky Nnyamah, Bora Chhun 
+title: Predicting Titanic Passenger survival
 Dataset: Titanic Training Data from Kaggle
 ---
 Project Abstract 
